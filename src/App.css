@@ -1,0 +1,16 @@
+body { 
+  display: block;
+  font-size: medium;
+  font-family: 'Segoe UI';
+  margin-top: 200px;
+  background-color: lightpink;
+  text-align: center;
+}
+.dayLight {
+  background-color: lightgreen;
+  text-align: center;
+  background-size: auto;
+  height:200px;
+}
+
+
